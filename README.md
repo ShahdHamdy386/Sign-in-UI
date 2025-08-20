@@ -22,11 +22,6 @@ This project was created as a practice to improve my CSS design and layout skill
 
 ---
 
-## 📸 Preview
-![Screenshot](https://raw.githubusercontent.com/ShahdHamdy386/Sign-in-UI/main/screenshot.png)
-
----
-
 ## 📂 How to Use
 1. Clone this repository:
    ```bash
